@@ -1,4 +1,4 @@
-]# Diego Aguirre 👨‍💻
+# Diego Aguirre 👨‍💻
 
 **Data Scientist & Entrepreneur** | Cornell University
 
