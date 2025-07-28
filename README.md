@@ -33,7 +33,7 @@
 
 - **Portfolio**: [insdaguirre.github.io](https://insdaguirre.github.io)
 - **LinkedIn**: [Diego Aguirre](https://linkedin.com/in/diego-aguirre-110729219)
-- **Email**: contact@diegoaguirre.com
+- **Email**: dta35@cornell.edu
 
 ---
 
