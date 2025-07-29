@@ -25,10 +25,6 @@
 - **[Hotel Price Checker](https://github.com/insdaguirre/Hotel_Price_Checker)** - Web scraping automation
 - **[DeegzBot](https://github.com/insdaguirre/DeegzBot)** - Social media automation
 
-## 📈 GitHub Stats
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=insdaguirre&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect
 
 - **Portfolio**: [insdaguirre.github.io](https://insdaguirre.github.io)
