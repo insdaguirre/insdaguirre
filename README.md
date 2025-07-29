@@ -32,5 +32,3 @@
 - **Email**: dta35@cornell.edu
 
 ---
-
-*Building the future with data and innovation* 🚀
