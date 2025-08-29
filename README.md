@@ -30,5 +30,6 @@
 - **Portfolio**: [insdaguirre.github.io](https://insdaguirre.github.io)
 - **LinkedIn**: [Diego Aguirre](https://linkedin.com/in/diego-aguirre-110729219)
 - **Email**: dta35@cornell.edu
+- **Deegz**: [deegz.mp3](https://www.instagram.com/deegz.mp3/)
 
 ---
