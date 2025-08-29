@@ -22,7 +22,7 @@
 
 - **[Emotional Sentiment Analysis](https://github.com/insdaguirre/Emotional_Sentiment_Analysis)** - ML models for text sentiment
 - **[Stock Hub](https://github.com/insdaguirre/Stock_Hub)** - Financial data visualization tool
-- **[Hotel Price Checker](https://github.com/insdaguirre/Hotel_Price_Checker)** - Web scraping automation
+- **[InferEcon](https://github.com/insdaguirre/InferEcon)** - Econometrics Software
 - **[DeegzBot](https://github.com/insdaguirre/DeegzBot)** - Social media automation
 
 ## 🤝 Let's Connect
