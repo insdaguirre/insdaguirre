@@ -7,23 +7,16 @@
 ## 🚀 What I Do
 
 - **Machine Learning** - Building predictive models and AI solutions
-- **Financial Engineering** - Quantitative analysis and trading algorithms  
 - **Data Science** - Extracting insights from complex datasets
 - **Entrepreneurship** - Building innovative solutions and businesses
-
-## 🛠️ Tech Stack
-
-- **Languages**: Python, SQL, JavaScript
-- **ML/AI**: Scikit-learn, TensorFlow, NLP, Computer Vision
-- **Data**: Pandas, NumPy, Matplotlib, Jupyter
-- **Tools**: Git, Docker, AWS, Google Cloud
+- **Financial Engineering** - Quantitative analysis and trading algorithms 
 
 ## 📊 Featured Projects
 
-- **[Emotional Sentiment Analysis](https://github.com/insdaguirre/Emotional_Sentiment_Analysis)** - ML models for text sentiment
-- **[Stock Hub](https://github.com/insdaguirre/Stock_Hub)** - Financial data visualization tool
+- **[Emotional Sentiment Analysis](https://github.com/insdaguirre/Emotional_Sentiment_Analysis)** - ML models for analyzing emotional sentiment
+- **[Political Sentiment Analysis](https://github.com/insdaguirre/Stock_Hub)** - ML models for analyzing political sentiment 
 - **[InferEcon](https://github.com/insdaguirre/InferEcon)** - Econometrics Software
-- **[DeegzBot](https://github.com/insdaguirre/DeegzBot)** - Social media automation
+- **[DeegzBot](https://github.com/insdaguirre/AWS_Instagram_Bott)** - AWS Powered Social media automation
 
 ## 🤝 Let's Connect
 
