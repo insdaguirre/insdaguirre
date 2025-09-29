@@ -1,15 +1,15 @@
 # Diego Aguirre 👨‍💻
 
-**Data Scientist & Entrepreneur** | Cornell University
+**Developer, Data Scientist & Entrepreneur** | Cornell Engineering
 
 🔗 **Portfolio**: [insdaguirre.github.io](https://insdaguirre.github.io)
 
 ## 🚀 What I Do
 
+- **Full-Stack Development** - Bridging the gap between technology and people
 - **Machine Learning** - Building predictive models and AI solutions
 - **Data Science** - Extracting insights from complex datasets
 - **Entrepreneurship** - Building innovative solutions and businesses
-- **Financial Engineering** - Quantitative analysis and trading algorithms 
 
 ## 📊 Featured Projects
 
@@ -22,7 +22,8 @@
 
 - **Portfolio**: [insdaguirre.github.io](https://insdaguirre.github.io)
 - **LinkedIn**: [Diego Aguirre](https://linkedin.com/in/diego-aguirre-110729219)
+- **Twitter/X**: [DeegzDev](https://x.com/DeegzDev)
 - **Email**: dta35@cornell.edu
-- **Deegz**: [deegz.mp3](https://www.instagram.com/deegz.mp3/)
+- **Deegz.mp3**: [deegz.mp3](https://www.instagram.com/deegz.mp3/)
 
 ---
