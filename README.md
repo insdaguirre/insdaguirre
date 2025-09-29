@@ -7,7 +7,7 @@
 ## 🚀 What I Do
 
 - **Full-Stack Development** - Bridging the gap between technology and people
-- **Machine Learning** - Building predictive models and AI solutions
+- **Machine Learning** - Engineering predictive models and AI solutions
 - **Data Science** - Extracting insights from complex datasets
 - **Entrepreneurship** - Building innovative solutions and businesses
 
