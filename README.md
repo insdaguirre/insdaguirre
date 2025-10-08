@@ -25,7 +25,7 @@
 - **[TheraMistyOverview](https://github.com/insdaguirre/TheraMistyOverview)** MistyII robot programmed for speech pathology
 - **[InferEcon](https://github.com/insdaguirre/InferEcon)** - Didn't want to pay for Stata so built this 
 - **[DeegzBot](https://github.com/insdaguirre/AWS_Instagram_Bot)** - AWS Powered Social media automation
-- **[Market Correlation](https://github.com/insdaguirre/Market_Correlation)** - Network Science to visualize market correlation 
+- **[StockSentiment](https://github.com/insdaguirre/StockSentiment)** - Data pipeline and custom VADER sentiment analysis for $SPY 
 - **[Emotional Sentiment Analysis](https://github.com/insdaguirre/Emotional_Sentiment_Analysis)** - Exploratory ML for identifying emotional sentiment 
 
 ---
