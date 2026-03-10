@@ -22,11 +22,11 @@
   ## 📊 Featured Projects
 
 - **[Narrative](https://github.com/insdaguirre/narrative-edu)** Intelligence for higher-ed
-- **[Stock Hub](https://github.com/insdaguirre/Stock_Hub)** FastAPI-Backend for multi-model stock forecasts
+- **[Stock Hub](https://github.com/insdaguirre/Stock_Hub)** FastAPI-Backend for multi-model stock forecasts (Inactive) 
 - **[TheraMistyOverview](https://github.com/insdaguirre/TheraMistyOverview)** MistyII robot programmed for speech pathology
 - **[InferEcon](https://github.com/insdaguirre/InferEcon)** - Didn't want to pay for Stata so built this 
 - **[DeegzBot](https://github.com/insdaguirre/AWS_Instagram_Bot)** - AWS Powered Social media automation
-- **[StockSentiment](https://github.com/insdaguirre/StockSentiment)** - Data pipeline and custom VADER sentiment analysis for $SPY 
+- **[StockSentiment](https://github.com/insdaguirre/StockSentiment)** - Data pipeline and custom VADER sentiment analysis for $SPY (Inactive)
 - **[Emotional Sentiment Analysis](https://github.com/insdaguirre/Emotional_Sentiment_Analysis)** - Exploratory ML for identifying emotional sentiment 
 
 ---
