@@ -1,32 +1,26 @@
-# Diego Aguirre 👨‍💻
+# Diego Aguirre
 
-**Developer, Data Scientist & Entrepreneur** | Cornell Engineering
+Product-minded software engineer building AI-native workflows, full-stack systems, and tools that turn messy signals into clear operating surfaces.
 
-🔗 **Portfolio**: [insdaguirre.github.io](https://insdaguirre.github.io)
+I care about strong product framing, clean system design, and software that is useful in the real world.
 
-## 🚀 What I Do
+## Selected Public Work
 
-- **Full-Stack Development** - Bridging the gap between technology and people
-- **Machine Learning** - Engineering predictive models and AI solutions
-- **Data Science** - Extracting insights from complex datasets
-- **Entrepreneurship** - Building innovative solutions and businesses
+- **[Narrative](https://github.com/insdaguirre/narrative-edu)** — Higher-ed intelligence and response platform built around multi-tenant workflows, AI-assisted drafting, background processing, and reporting.
+- **[InferEcon](https://github.com/insdaguirre/InferEcon)** — Python-based econometrics toolkit for data exploration, regression analysis, and causal inference.
+- **[StockHub](https://github.com/insdaguirre/StockHub)** — Full-stack stock prediction platform with a React frontend, FastAPI backend, background jobs, caching, auth, and model storage.
+- **[SentimentWatch](https://github.com/insdaguirre/SentimentWatch)** — Real-time market sentiment tracker spanning ingestion pipelines, API design, and dashboard UI.
+- **[TheraMistyOverview](https://github.com/insdaguirre/TheraMistyOverview)** — System overview for a speech-therapy platform built around Misty II, multimodal inputs, real-time orchestration, and LLM-assisted interaction.
 
-## 🤝 Let's Connect
+## How I Build
 
-- **Portfolio**: [insdaguirre.github.io](https://insdaguirre.github.io)
-- **LinkedIn**: [Diego Aguirre](https://linkedin.com/in/diego-aguirre-110729219)
-- **Twitter/X**: [DeegzDev](https://x.com/DeegzDev)
-- **Email**: dta35@cornell.edu
-- **Alter-Ego**: [deegz.mp3](https://www.instagram.com/deegz.mp3/)
+- Product-first systems with clear user value
+- Full-stack by default: interface, backend, data, and operating layer
+- Applied AI where it improves the workflow, not just the pitch
+- Fast iteration without losing architectural discipline
 
-  ## 📊 Featured Projects
+## Elsewhere
 
-- **[Narrative](https://github.com/insdaguirre/narrative-edu)** Intelligence for higher-ed
-- **[Stock Hub](https://github.com/insdaguirre/Stock_Hub)** FastAPI-Backend for multi-model stock forecasts (Inactive) 
-- **[TheraMistyOverview](https://github.com/insdaguirre/TheraMistyOverview)** MistyII robot programmed for speech pathology
-- **[InferEcon](https://github.com/insdaguirre/InferEcon)** - Didn't want to pay for Stata so built this 
-- **[DeegzBot](https://github.com/insdaguirre/AWS_Instagram_Bot)** - AWS Powered Social media automation
-- **[StockSentiment](https://github.com/insdaguirre/StockSentiment)** - Data pipeline and custom VADER sentiment analysis for $SPY (Inactive)
-- **[Emotional Sentiment Analysis](https://github.com/insdaguirre/Emotional_Sentiment_Analysis)** - Exploratory ML for identifying emotional sentiment 
-
----
+- **Site:** [diego-aguirre.com](https://diego-aguirre.com)
+- **LinkedIn:** [Diego Aguirre](https://www.linkedin.com/in/diego-aguirre-110729219)
+- **X:** [@DeegzDev](https://x.com/DeegzDev)
