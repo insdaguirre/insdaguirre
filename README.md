@@ -4,8 +4,8 @@ Product-minded software engineer building AI-native workflows, full-stack system
 
 I care about strong product framing, clean system design, and software that is useful in the real world.
 
-## Contact
-hello@narrative-edu.com
+## Contact 
+
 
 ## Selected Public Work
 
@@ -27,3 +27,4 @@ hello@narrative-edu.com
 - **Site:** [diego-aguirre.com](https://diego-aguirre.com)
 - **LinkedIn:** [Diego Aguirre](https://www.linkedin.com/in/diego-aguirre-110729219)
 - **X:** [@DeegzDev](https://x.com/DeegzDev)
+- **Contact:** [email](hello@narrative-edu.com)
