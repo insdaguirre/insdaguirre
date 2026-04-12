@@ -4,10 +4,7 @@ Product-minded software engineer building AI-native workflows, full-stack system
 
 I care about strong product framing, clean system design, and software that is useful in the real world.
 
-## Contact 
-
-
-## Selected Public Work
+## Recently 
 
 - **[Narrative](https://github.com/insdaguirre/narrative-edu)** — Higher-ed intelligence and response platform built around multi-tenant workflows, AI-assisted drafting, background processing, and reporting.
 - **[InferEcon](https://github.com/insdaguirre/InferEcon)** — Python-based econometrics toolkit for data exploration, regression analysis, and causal inference.
@@ -26,5 +23,6 @@ I care about strong product framing, clean system design, and software that is u
 
 - **Site:** [diego-aguirre.com](https://diego-aguirre.com)
 - **LinkedIn:** [Diego Aguirre](https://www.linkedin.com/in/diego-aguirre-110729219)
-- **X:** [@DeegzDev](https://x.com/DeegzDev)
 - **Contact:** [email](hello@narrative-edu.com)
+- **X:** [@DeegzDev](https://x.com/DeegzDev)
+
