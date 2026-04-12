@@ -23,6 +23,5 @@ I care about strong product framing, clean system design, and software that is u
 
 - **Site:** [diego-aguirre.com](https://diego-aguirre.com)
 - **LinkedIn:** [Diego Aguirre](https://www.linkedin.com/in/diego-aguirre-110729219)
-- **Contact:** [email](hello@narrative-edu.com)
 - **X:** [@DeegzDev](https://x.com/DeegzDev)
 
