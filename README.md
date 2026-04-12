@@ -4,6 +4,9 @@ Product-minded software engineer building AI-native workflows, full-stack system
 
 I care about strong product framing, clean system design, and software that is useful in the real world.
 
+## Contact
+hello@narrative-edu.com
+
 ## Selected Public Work
 
 - **[Narrative](https://github.com/insdaguirre/narrative-edu)** — Higher-ed intelligence and response platform built around multi-tenant workflows, AI-assisted drafting, background processing, and reporting.
