@@ -11,6 +11,7 @@ I care about strong product framing, clean system design, and software that is u
 - **[StockHub](https://github.com/insdaguirre/StockHub)** — Full-stack stock prediction platform with a React frontend, FastAPI backend, background jobs, caching, auth, and model storage.
 - **[SentimentWatch](https://github.com/insdaguirre/SentimentWatch)** — Real-time market sentiment tracker spanning ingestion pipelines, API design, and dashboard UI.
 - **[TheraMistyOverview](https://github.com/insdaguirre/TheraMistyOverview)** — System overview for a speech-therapy platform built around Misty II, multimodal inputs, real-time orchestration, and LLM-assisted interaction.
+- **[FREQ](https://www.cornellsun.com/article/2025/05/in-photos-slope-day)** - FREQ 4 Cornell Slopeday 
 
 ## How I Build
 
