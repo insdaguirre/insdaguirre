@@ -6,10 +6,10 @@ I care about strong product framing, clean system design, and software that is b
 
 ## Recently 
 
-- **[Narrative](https://github.com/insdaguirre/narrative-edu)** — Higher-ed intelligence and response platform built around multi-tenant workflows, AI-assisted drafting, background processing, and reporting.
+- **[Narrative](www.narrative-edu.com/)** — Higher-ed intelligence and response platform built around multi-tenant workflows, AI-assisted drafting, background processing, and reporting.
 - **[InferEcon](https://github.com/insdaguirre/InferEcon)** — Python-based econometrics toolkit for data exploration, regression analysis, and causal inference.
-- **[StockHub](https://github.com/insdaguirre/StockHub)** — Full-stack stock prediction platform with a React frontend, FastAPI backend, background jobs, caching, auth, and model storage.
-- **[SentimentWatch](https://github.com/insdaguirre/SentimentWatch)** — Real-time market sentiment tracker spanning ingestion pipelines, API design, and dashboard UI.
+- **[StockHub](https://github.com/insdaguirre/StockHub)** — Full-stack stock prediction platform with a React frontend, FastAPI backend, background jobs, caching, auth, and model storage. To minimize hosting costs, I turned off the backend when I graduated, but here's a static [demo](https://diego-aguirre.com/StockHub-Demo/). 
+- **[SentimentWatch](https://github.com/insdaguirre/SentimentWatch)** — Real-time market sentiment tracker spanning ingestion pipelines, API design, and dashboard UI. To minimize hosting costs, I turned off the backend when I graduated, but here's a static [demo](https://diego-aguirre.com/SentimentWatch-Demo/).
 - **[TheraMistyOverview](https://github.com/insdaguirre/TheraMistyOverview)** — System overview for a speech-therapy platform built around Misty II, multimodal inputs, real-time orchestration, and LLM-assisted interaction.
 - **[FREQ](https://www.cornellsun.com/article/2025/05/in-photos-slope-day)** - FREQ 4 Cornell Slopeday 
 
