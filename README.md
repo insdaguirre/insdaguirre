@@ -2,7 +2,7 @@
 
 Product-minded software engineer building AI-native workflows, full-stack systems, and tools that turn messy signals into clear operating surfaces.
 
-I care about strong product framing, clean system design, and software that is useful in the real world.
+I care about strong product framing, clean system design, and software that is beneficial in the real world.
 
 ## Recently 
 
@@ -15,6 +15,7 @@ I care about strong product framing, clean system design, and software that is u
 
 ## How I Build
 
+- 'Users Users Users Users'
 - Product-first systems with clear user value
 - Full-stack by default: interface, backend, data, and operating layer
 - Applied AI where it improves the workflow, not just the pitch
