@@ -1,9 +1,32 @@
-# Diego Aguirre
+<pre>
+   ___  _________________       ___  _______  _________  ___  ____
+  / _ \/  _/ __/ ___/ __ \     / _ |/ ___/ / / /  _/ _ \/ _ \/ __/
+ / // // // _// (_ / /_/ /    / __ / (_ / /_/ // // , _/ , _/ _/
+/____/___/___/\___/\____/    /_/ |_\___/\____/___/_/|_/_/|_/___/
+  // software engineer  //  full-stack  //  systems thinker
+  ~$ npm run mix --bpm=128 --key=Am --deck=dual
 
-Product-minded software engineer building AI-native workflows, full-stack systems, and tools that turn messy signals into clear operating surfaces.
-
-I care about strong product framing, clean system design, and software that is beneficial in the real world.
-
+ .[ CDJ-3000 : DECK A ]--------------.   .[ DJM-900NXS2 ]---.    .[ CDJ-3000 : DECK B ]--------------.
+ | .--------------------------------. |  | CH1 CH2 CH3 CH4    |  | .--------------------------------. |
+ | /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ |  |   |   |   |   |    |  | /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ |
+ | Diego Aguirre  128BPM  KEY:Am      |  |  (H) (H) (H) (H)   |  | Am:KEY  128BPM  Diego Aguirre      |
+ | &gt;&gt; 00:23.4    MASTER TEMPO         |  |   |   |   |   |    |  | MASTER TEMPO    4:23.4 &lt;&lt;          |
+ | '--------------------------------' |  |  (M) (M) (M) (M)   |  | '--------------------------------' |
+ |                                    |  |   |   |   |   |    |  |                                    |
+ |       .-------------.              |  |                    |  |       .-------------.              |
+ |     .'  .---------.  '.            |  |                    |  |     .'  .---------.  '.            |
+ |    /  .'           '.  \           |  |                    |  |    /  .'           '.  \           |
+ |   |  /  .---------.  \  |          |  |                    |  |   |  /  .---------.  \  |          |
+ |   | |  /  CDJ-3000  \ | |          |  |                    |  |   | |  /  CDJ-3000  \ | |          |
+ |   | |  |   (( o ))  | | |          |  | &lt;== CROSSFADER ==&gt; |  |   | |  |   (( o ))  | | |          |
+ |   | |   \ _________ / | |          |  | (F1)(F2)(F3)(F4)   |  |   | |   \ _________ / | |          |
+ |   |  \   '---------' /  |          |  |                    |  |   |  \   '---------' /  |          |
+ |    \  '.           .'  /           |  |                    |  |    \  '.           .'  /           |
+ |     '.  '-----------' .'           |  |                    |  |     '.  '-----------' .'           |
+ |        '[ JOGWHEEL ]'              |  |                    |  |        '[ JOGWHEEL ]'              |
+ | [CUE][PLAY&gt;][LOOP][SYNC][HOT x8]   |  |  (L) (L) (L) (L)   |  | [HOT x8][SYNC][LOOP][&lt;PLAY][CUE]   |
+ '------------------------------------'  '--------------------'  '------------------------------------'
+</pre>
 ## Recently 
 
 - **[Narrative](www.narrative-edu.com/)** — Higher-ed intelligence and response platform built around multi-tenant workflows, AI-assisted drafting, background processing, and reporting.
