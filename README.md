@@ -38,14 +38,6 @@
 - **[TheraMistyOverview](https://github.com/insdaguirre/TheraMistyOverview)** — System overview for a speech-therapy platform built around Misty II, multimodal inputs, real-time orchestration, and LLM-assisted interaction.
 - **[FREQ](https://www.cornellsun.com/article/2025/05/in-photos-slope-day)** - FREQ 4 Cornell Slopeday 
 
-## How I Build
-
-- 'Users Users Users Users'
-- Product-first systems with clear user value
-- Full-stack by default: interface, backend, data, and operating layer
-- Applied AI where it improves the workflow, not just the pitch
-- Fast iteration without losing architectural discipline
-
 ## Elsewhere
 
 - **Site:** [diego-aguirre.com](https://diego-aguirre.com)
